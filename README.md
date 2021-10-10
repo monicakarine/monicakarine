@@ -11,7 +11,7 @@
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="my-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ZygXXmpiWGi7cZHdME/giphy.gif">
+  <img align="right" alt="my-gif" height="150" style="border-radius:50px;" src="https://steemitimages.com/p/PB8ro6BEQfZzqPfp2Bvtg4aeoJbxYxQs2Jt8383mK7gZwhjou5ChqajMtXXGV52yTon2TZLTqBjh7eD3vi2dJfZMXcVEcMoJu3BrhBprQT5oxHUH?format=match&mode=fit">
 </div>
   
   ##
