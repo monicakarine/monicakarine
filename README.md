@@ -1,4 +1,5 @@
 ## Mônica Karine - Currently pursuing a B.Sc. in Systems Engineering at Universidade Federal de Minas Gerais.
+![I am GitHub Readme Generator's creator](https://media.giphy.com/media/ZygXXmpiWGi7cZHdME/giphy.gif)
 <div align="center">
   <a href="https://github.com/monicakarine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicakarine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
