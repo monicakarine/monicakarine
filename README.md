@@ -3,10 +3,15 @@
 <div align="left">
   
   <a href="https://github.com/monicakarine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicakarine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicakarine&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicakarine&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicakarine&layout=compact&langs_count=7&theme=bear"/>
+  <img height="148m" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=SistemaSolar&theme=bear&show_icons=true"/>
+  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Pedagio&layout=compact&theme=bear&show_icons=true"/>  
+  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Miau-Lander&layout=compact&theme=bear&show_icons=true"/>  
+  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Miau-Lander&layout=compact&theme=bear&show_icons=true"/>  
+  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=HortaAutomatica&layout=compact&theme=bear&show_icons=true"/>  
+  <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=monicakarine&layout=compact&langs_count=7&theme=bear"/>
 </div>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -26,5 +31,4 @@
    <a href = "mailto:monicakarinep@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mônica-karine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monicakarine)  
 </div>
