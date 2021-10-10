@@ -7,9 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicakarine&layout=compact&langs_count=7&theme=bear"/>
   <img height="148m" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=SistemaSolar&theme=bear&show_icons=true"/>
   <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Pedagio&layout=compact&theme=bear&show_icons=true"/>  
-  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Miau-Lander&layout=compact&theme=bear&show_icons=true"/>  
-  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Miau-Lander&layout=compact&theme=bear&show_icons=true"/>  
-  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=HortaAutomatica&layout=compact&theme=bear&show_icons=true"/>  
+  <br/>
+  <img height="119em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Miau-Lander&layout=compact&theme=bear&show_icons=true"/>  
+  <img height="119em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=HortaAutomatica&layout=compact&theme=bear&show_icons=true"/>  
   <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=monicakarine&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
