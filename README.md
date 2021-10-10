@@ -23,7 +23,7 @@
  	<a href="https://www.twitch.tv/monicakarinep" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href = "mailto:monicakarinep@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mônica-karine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=github-readme-stats)](https://github.com/monicakarine/Pedagio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=monicakarinea&repo=github-readme-stats)](https://github.com/monicakarine/SistemaSolar)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=github-readme-stats)](https://github.com/monicakarine/Pedagio)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=monicakarinea&repo=github-readme-stats)](https://github.com/monicakarine/SistemaSolar)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monicakarine)  
 </div>
