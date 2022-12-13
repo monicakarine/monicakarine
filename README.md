@@ -10,19 +10,9 @@
   <br/>
   <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Miau-Lander&layout=compact&theme=bear&show_icons=true"/>  
   <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=HortaAutomatica&layout=compact&theme=bear&show_icons=true"/>  
-  <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=monicakarine&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img align="center" alt="Embedded-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="my-gif" height="150" style="border-radius:50px;" src="https://steemitimages.com/p/PB8ro6BEQfZzqPfp2Bvtg4aeoJbxYxQs2Jt8383mK7gZwhjou5ChqajMtXXGV52yTon2TZLTqBjh7eD3vi2dJfZMXcVEcMoJu3BrhBprQT5oxHUH?format=match&mode=fit">
-</div>
-  
+
   ##
  
 <div> 
