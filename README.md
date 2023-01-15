@@ -2,18 +2,7 @@
 ![I am GitHub Readme Generator's creator](https://media.giphy.com/media/ZygXXmpiWGi7cZHdME/giphy.gif)
 <div align="left">
   
-  <a href="https://github.com/monicakarine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicakarine&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicakarine&layout=compact&langs_count=7&theme=bear"/>
-  <img height="148m" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=SistemaSolar&theme=bear&show_icons=true"/>
-  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Pedagio&layout=compact&theme=bear&show_icons=true"/>  
-  <br/>
-  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=Miau-Lander&layout=compact&theme=bear&show_icons=true"/>  
-  <img height="148em" src= https://github-readme-stats.vercel.app/api/pin/?username=monicakarine&repo=HortaAutomatica&layout=compact&theme=bear&show_icons=true"/>  
-</div>
-
-
-  ##
+ ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCZY5LL9bCs77rTq0-NWS-wg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
